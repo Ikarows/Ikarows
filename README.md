@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+项目技术选型：
+ 由于vue3的生态还不够完善，尝鲜可以使用 cos-template 或 cos-uniapp，追求稳定和丰富的插件支持的话可以选用 vue2.5-cli 或 uniapp-cli.
+
 <!---
 Ikarows/Ikarows is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
