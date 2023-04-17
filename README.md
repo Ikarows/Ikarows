@@ -1,6 +1,6 @@
 <p>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ikarows&theme=calm&date_format=M%20j%5B%2C%20Y%5D" height="188" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikarows&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="188">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ikarows&theme=calm&date_format=M%20j%5B%2C%20Y%5D" height="204" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikarows&layout=compact&langs_count=8&theme=calm&role=OWNER,ORGANIZATION_MEMBER" height="204">
 </p>
 <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Hi,I’m.@Ikarows&center=true&size=27&color=373F51">
 
